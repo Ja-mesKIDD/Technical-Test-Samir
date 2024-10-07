@@ -1,0 +1,11 @@
+borrower_id,name,age,gender,employment_status
+101,John Doe,28,M,employed
+102,Jane Smith,35,F,self-employed
+103,Bob Johnson,22,M,unemployed
+104,Alice Brown,30,F,employed
+105,Charlie Lee,25,M,student
+106,David White,40,M,self-employed
+107,Eva Green,32,F,employed
+108,Frank Miller,27,M,unemployed
+109,Gina Davis,38,F,employed
+110,Harry Black,29,M,employed
