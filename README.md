@@ -38,18 +38,3 @@ We performed Chi-square tests to examine the relationships between employment st
 ## Conclusion
 
 The analysis provides preliminary insights into loan default risk. However, due to the small dataset (only 10 entries), further research with a larger dataset is necessary to draw more reliable conclusions. Future investigations should also focus on understanding the implications of interest rates and resolving discrepancies in repayment dates.
-
-## Recommendations
-
-1. Obtain a larger dataset for more comprehensive analysis.
-2. Investigate the effects of interest rates on repayment behavior.
-3. Clarify discrepancies in repayment dates for accurate loan performance tracking.
-
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
-- SciPy
